@@ -1,0 +1,36 @@
+.navigation{
+    background-color: rgb(17, 3, 17);
+    top:0;
+    height: 60px;
+    display: flex;
+  }
+
+.cambody{
+  background-color: rgb(110, 110, 110);
+}
+.box1{
+  display: flex;
+}
+.topic1{
+  margin-top: 20px;
+  margin-left: 50px;
+  color:white;
+}
+.paragraph{
+  margin-top: 70px;
+  color:white;
+}
+.pic2{
+  height: 300px;
+  
+}
+.itemContainer{
+  background-color: rgb(175, 172, 172);
+  margin-bottom: 20px;
+  width:97%;
+  margin-left: 20px;
+  border-radius: 10px;
+  opacity: 90%;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.37); 
+box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.37);
+}
